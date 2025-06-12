@@ -1,5 +1,5 @@
 # anveshanAI
 
-![image](https://github.com/user-attachments/assets/1070ee00-0fe4-4c92-81d1-cfa80771bbf0)
+![image](https://github.com/user-attachments/assets/b8ce76c5-d594-4bb3-96da-c8874a0bf77c)
 
 This repo contains solution for IndiaAI - ML HACKATHON 2025
