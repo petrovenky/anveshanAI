@@ -1,4 +1,3 @@
-
-![image](https://github.com/user-attachments/assets/b8ce76c5-d594-4bb3-96da-c8874a0bf77c)
+![Logo](https://github.com/user-attachments/assets/49fced5e-1835-44e4-871a-4c5d0b19e6ca)
 
 This repo contains solution for IndiaAI - ML HACKATHON 2025
