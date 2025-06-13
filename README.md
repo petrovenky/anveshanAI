@@ -1,6 +1,6 @@
 ![Logo](https://github.com/user-attachments/assets/49fced5e-1835-44e4-871a-4c5d0b19e6ca)
 
-# 🇮🇳 IndiaAI - ML Hackathon 2025: Mineral Prospectivity Mapping  
+# IndiaAI - ML Hackathon 2025: Mineral Prospectivity Mapping  
 **Team: अन्वेषणAI**
 
 This repository contains the complete solution submitted for the **IndiaAI - ML Hackathon 2025**, focused on generating high-confidence mineral prospectivity maps using supervised machine learning models and ensemble techniques.
